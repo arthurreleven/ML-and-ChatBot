@@ -1,2 +1,2 @@
 # ML-and-ChatBot
-This is an repository for collage project.
+This is an repository for college project.
