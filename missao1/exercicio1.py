@@ -17,7 +17,7 @@ mensagens = [
     "Qual é o horário de funcionamento da loja?",
     "Onde fica localizada a loja física mais próxima?",
     "Quais são os canais oficiais de atendimento da loja?",
-    "Vocês têm alguma política de troca e devolução?"
+    "Vocês têm alguma política de troca e devolução?",
     
     #Sup
     "Como faço para abrir um chamado de suporte?",
